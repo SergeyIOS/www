@@ -32,7 +32,7 @@
     echo findMiniPolidrom($newText);
  }
 
- 
+www
 ?>
 
 
